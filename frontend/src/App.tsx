@@ -4,6 +4,7 @@ import Layout from './layout/Layout';
 import LandingPages from './pages/LandingPages';
 import LoginPage from './pages/LoginPage';
 import RegisterPage from './pages/RegisterPage';
+import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
   return (
